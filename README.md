@@ -1,4 +1,6 @@
 # pathfinding-visualizer
+## Demo 
+![pathfinding-visualizer-demo](https://user-images.githubusercontent.com/54121714/236683215-0211180d-7d52-4d19-b858-862e48cb7e69.gif)
 
 ## Introduction 
 This is a pathfinding visualizer used to visualize pathfinding algorithms with a maze generation feature 
